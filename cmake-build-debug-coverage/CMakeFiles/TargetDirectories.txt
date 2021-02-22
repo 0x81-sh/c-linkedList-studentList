@@ -1,0 +1,3 @@
+C:/Users/ulric/2AHIF/POS1/C/linkedList/studentList/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+C:/Users/ulric/2AHIF/POS1/C/linkedList/studentList/cmake-build-debug-coverage/CMakeFiles/studentList.dir
+C:/Users/ulric/2AHIF/POS1/C/linkedList/studentList/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir

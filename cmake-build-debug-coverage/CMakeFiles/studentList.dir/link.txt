@@ -1,0 +1,3 @@
+"C:\Users\ulric\Data\Programming\IDEs\Jetbrains toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\studentList.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\studentList.dir/objects.a @CMakeFiles\studentList.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe --coverage -g   -Wl,--whole-archive CMakeFiles\studentList.dir/objects.a -Wl,--no-whole-archive  -o studentList.exe -Wl,--out-implib,libstudentList.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\studentList.dir\linklibs.rsp

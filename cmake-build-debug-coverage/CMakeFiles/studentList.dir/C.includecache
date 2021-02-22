@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ulric/2AHIF/POS1/C/linkedList/studentList/main.c
+stdio.h
+-
+stdlib.h
+-
+limits.h
+-
+string.h
+-
+
